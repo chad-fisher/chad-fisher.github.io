@@ -25,7 +25,7 @@ Charles River Watershed as well as outlining regional planting, protection, and 
 <img style="border-width=100%;" src="Screenshot 2024-11-11 164600.png" alt="Tree Equity Maps" width="200" height="120">
 </a>
 <a href="https://www.wgbh.org/news/local/2023-08-10/the-idea-of-tree-equity-is-taking-root" target="_blank">
-<img style="border-width=100%;" src="Screenshot 2024-11-11 164519.png" alt="WGBH Article featuring my tool!" width="200" height="240">
+<img style="border-width=100%;" src="Screenshot 2024-11-11 164924.png" alt="WGBH Article featuring my tool!" width="200" height="240">
 </a>
 <a href="https://treeboston.maps.arcgis.com/apps/dashboards/1e15bc2e1d27434db83321cd7edb5977" target="_blank">
 <img style="border-width=100%;" src="Screenshot 2024-11-11 164425.png" alt="Tree Canopy Explorer" width="200" height="120">
