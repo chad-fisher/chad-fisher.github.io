@@ -10,8 +10,10 @@ Charles River Watershed as well as outlining regional planting, protection, and 
 <img style="border-width=100%;" src="Screenshot 2024-11-11 163106.png" alt="Regional Tree Planting and Protection Plan Webinar" width="240" height="120">
 </a>
 </section>
+<p>
 
 
+</p>
 <section style="box-shadow: 5px 5px;">
 <b style="color:#E9F6FE;weight:600;font-size:125%">Exploring Tree Equity in Boston:</b>
 <p style='font-size:80%'>While a summer fellow at Speak for the Trees, Boston, I developed numerous interactive web mapping applications to visualize tree canopy cover, demographic data, and other environmental variables.</p>
