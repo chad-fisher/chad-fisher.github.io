@@ -1,6 +1,6 @@
 # My Portfolio
 
-<section>
+<section style="background-color:#AAAAAA">
 <b>CRWA Regional Tree Planting and Protection Plan:</b>
   <p>
   </p>As a consultant with Corcoran Environmental Consulting, we created a comprehensive plan assessing existing conditions and future challenges to tree canopy cover in the 
