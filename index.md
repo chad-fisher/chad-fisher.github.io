@@ -1,4 +1,21 @@
 # My Portfolio
+
+<section style="box-shadow: 5px 5px;">
+<b style="color:#E9F6FE;weight:600;font-size:125%">Geospatial Data Scientist @ Tufts University Research Technology:</b>
+<p style='font-size:80%'>While working as a data lab assistant and geospatial data scientist at Tufts, I have assisted on diverse spatial research projects and developed numerous online applications using ESRI tools.</p>
+<a href="https://experience.arcgis.com/experience/3564c35584ef40bf9510f2cea3a18983/" target="_blank">
+<img style="border-width=100%;" src="Screenshot 2024-11-11 165420.png" alt="Geospatial Learning Resources" width="200" height="120">
+</a>
+</section>
+<section>
+<p>
+
+</p>
+<p>
+
+</p>
+</section>
+
 <section style="box-shadow: 5px 5px;">
 <b style="color:#E9F6FE;weight:600;font-size:125%">CRWA Regional Tree Planting and Protection Plan:</b>
 <p style='font-size:80%'>As a consultant with Corcoran Environmental Consulting LLC, we created a comprehensive plan assessing existing conditions and future challenges to tree canopy cover in the 
