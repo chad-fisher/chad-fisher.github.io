@@ -1,6 +1,6 @@
 # My Portfolio
 
-<b style="color:#F0FEEB;weight:600;font-size:150%">CRWA Regional Tree Planting and Protection Plan:</b>
+<b style="color:#E9F6FE;weight:600;font-size:125%">CRWA Regional Tree Planting and Protection Plan:</b>
 <p style='font-size:80%'>As a consultant with Corcoran Environmental Consulting, we created a comprehensive plan assessing existing conditions and future challenges to tree canopy cover in the 
 Charles River Watershed as well as outlining regional planting, protection, and maintenance priorities.</p>
 <a href="https://storymaps.arcgis.com/stories/10fdd6beaffd4f949473a7a6dc70f745">
