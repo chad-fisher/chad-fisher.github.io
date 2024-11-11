@@ -1,4 +1,4 @@
 remote_theme: pages-themes/minimal@v0.2.0
 title: Chad Fisher
 description: geospatial data scientist passionate about climate justice
-logo: <img style="border-radius: 50%; max-width: 90%;" src='me.png'>
+logo: 'me.png'
