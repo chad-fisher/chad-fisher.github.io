@@ -4,11 +4,13 @@
 @import "{{ site.theme }}";
 body {
  background-color: #193D0A;
- color: #DEE2DD
+ color: #DEE2DD;
+ font: 'Consolas'
 }
 
 img {
-  border-radius: 50%;
+ border-radius: 50%;
+ max-width: 50%;
 }
 
 h1, h2, h3, h4, h5, h6 {
