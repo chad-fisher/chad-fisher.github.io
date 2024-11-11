@@ -7,5 +7,5 @@ Charles River Watershed as well as outlining regional planting, protection, and 
 <img style="border-width=100%;" src="Screenshot 2024-11-11 155553.png" alt="Regional Tree Planting and Protection Plan" width="200" height="120">
 </a>
 <a href="[https://storymaps.arcgis.com/stories/10fdd6beaffd4f949473a7a6dc70f745](https://www.youtube.com/watch?v=udjjKjAkaLo)" target="_blank">
-<img style="border-width=100%;" src="Screenshot 2024-11-11 163106.png" alt="Regional Tree Planting and Protection Plan Webinar" width="200" height="120">
+<img style="border-width=100%;" src="Screenshot 2024-11-11 163106.png" alt="Regional Tree Planting and Protection Plan Webinar" width="240" height="120">
 </a>
