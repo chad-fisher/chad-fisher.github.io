@@ -1,6 +1,5 @@
-<h1>My Portfolio</h1>
-
 <section style="box-shadow: 5px 5px;">
+<h1>My Portfolio</h1>
 <b style="color:#E9F6FE;weight:600;font-size:125%">Tufts University Data Lab:</b>
 <p style='font-size:80%'>While working as a data lab assistant and geospatial data scientist at Tufts, I have assisted on diverse spatial research projects and developed numerous online applications using ESRI tools.</p>
 <div class="wrapper">
