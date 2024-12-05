@@ -7,9 +7,8 @@
     <a href="https://experience.arcgis.com/experience/3564c35584ef40bf9510f2cea3a18983/" target="_blank">
       <img style="border-width=100%;" src="Screenshot 2024-11-11 165420.png" alt="Geospatial Learning Resources" width="200" height="120">
     </a>
-    <figcaption>Geospatial Learning Resources</figcaption>
+    <figcaption style="color:#E9F6FE;font-size:75%">Geospatial Learning Resources</figcaption>
   </figure>
-
 </section>
 <section>
 <p>
