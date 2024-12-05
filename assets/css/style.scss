@@ -41,20 +41,14 @@ a {
 
 .box {
   float: left;
-  height: 100px;
+  height: 200px;
 }
 
 .box:nth-child(1) {
-  width: 25%;
-  background-color: red;
 }
 
 .box:nth-child(2) {
-  width: 50%;
-  background-color: green;
 }
 
 .box:nth-child(3) {
-  width: 25%;
-  background-color: yellow;
 }
