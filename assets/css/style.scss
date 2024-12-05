@@ -45,16 +45,16 @@ a {
 }
 
 .box:nth-child(1) {
- width: fit-content;
-   float: left;
+ width: stretch;
+  float: left;
 }
 
 .box:nth-child(2) {
- width: fit-content;
+ width: stretch;
    float: left;
 }
 
 .box:nth-child(3) {
- width: fit-content;
+ width: stretch;
    float: left;
 }
