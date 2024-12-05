@@ -3,25 +3,31 @@
 <section style="box-shadow: 5px 5px;">
 <b style="color:#E9F6FE;weight:600;font-size:125%">Tufts University Data Lab:</b>
 <p style='font-size:80%'>While working as a data lab assistant and geospatial data scientist at Tufts, I have assisted on diverse spatial research projects and developed numerous online applications using ESRI tools.</p>
-<div class="row">
-  <figure>
-    <a href="https://experience.arcgis.com/experience/3564c35584ef40bf9510f2cea3a18983/" target="_blank">
-      <img style="border-width=100%;" src="Screenshot 2024-11-11 165420.png" alt="Geospatial Learning Resources" width="200" height="120">
-    </a>
-    <figcaption style="color:#E9F6FE;font-size:75%">Geospatial Learning Resources</figcaption>
-  </figure>
-  <figure>
+<div class="wrapper">
+  <div class="box">
+    <figure>
+      <a href="https://experience.arcgis.com/experience/3564c35584ef40bf9510f2cea3a18983/" target="_blank">
+        <img style="border-width=100%;" src="Screenshot 2024-11-11 165420.png" alt="Geospatial Learning Resources" width="200" height="120">
+      </a>
+      <figcaption style="color:#E9F6FE;font-size:75%">Geospatial Learning Resources</figcaption>
+    </figure>
+  </div>
+  <div class="box">
+   <figure>
     <a href="https://experience.arcgis.com/experience/bd5755f56f844a9e89ae59e6167ca193" target="_blank">
       <img style="border-width=100%;" src="Screenshot 2024-12-05 105853.png" alt="2024 Poster Gallery" width="200" height="120">
     </a>
     <figcaption style="color:#E9F6FE;font-size:75%">2024 Poster Gallery</figcaption>
   </figure>
-  <figure>
-    <a href="https://colab.research.google.com/github/tuftsdatalab/python-geoprocessing/blob/main/Demos.ipynb" target="_blank">
-      <img style="border-width=100%;" src="Workshop flyer.jpg" alt="Python Geoprocessing Workshop" width="200" height="120">
-    </a>
-    <figcaption style="color:#E9F6FE;font-size:75%">Python Geoprocessing Workshop</figcaption>
-  </figure>
+  </div>
+  <div class="box">
+    <figure>
+      <a href="https://colab.research.google.com/github/tuftsdatalab/python-geoprocessing/blob/main/Demos.ipynb" target="_blank">
+        <img style="border-width=100%;" src="Workshop flyer.jpg" alt="Python Geoprocessing Workshop" width="200" height="120">
+      </a>
+      <figcaption style="color:#E9F6FE;font-size:75%">Python Geoprocessing Workshop</figcaption>
+    </figure>
+  </div>
 </div>
 </section>
 <section>
