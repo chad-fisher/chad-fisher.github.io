@@ -9,6 +9,12 @@
     </a>
     <figcaption style="color:#E9F6FE;font-size:75%">Geospatial Learning Resources</figcaption>
   </figure>
+  <figure>
+    <a href="https://experience.arcgis.com/experience/bd5755f56f844a9e89ae59e6167ca193" target="_blank">
+      <img style="border-width=100%;" src="Screenshot 2024-12-05 105853.png" alt="2024 Poster Gallery" width="200" height="120">
+    </a>
+    <figcaption style="color:#E9F6FE;font-size:75%">2024 Poster Gallery</figcaption>
+  </figure>
 </section>
 <section>
 <p>
