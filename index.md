@@ -1,22 +1,6 @@
 # My Portfolio
 
 <section style="box-shadow: 5px 5px;">
-<b style="color:#E9F6FE;weight:600;font-size:125%">Just for Fun:</b>
-<p style='font-size:80%'>Random hobby projects I've worked on.</p>
-<a href="https://tuftsgis.maps.arcgis.com/apps/instant/nearby/index.html?appid=b975571dc4274d7a9f534a240b891bf9" target="_blank">
-<img style="border-width=100%;" src="Screenshot 2024-11-11 190254.png" alt="MA Ice Cream Trail" width="200" height="120">
-</a>
-</section>
-<section>
-<p>
-
-</p>
-<p>
-
-</p>
-</section>
-
-<section style="box-shadow: 5px 5px;">
 <b style="color:#E9F6FE;weight:600;font-size:125%">Tufts University Data Lab:</b>
 <p style='font-size:80%'>While working as a data lab assistant and geospatial data scientist at Tufts, I have assisted on diverse spatial research projects and developed numerous online applications using ESRI tools.</p>
 <a href="https://experience.arcgis.com/experience/3564c35584ef40bf9510f2cea3a18983/" target="_blank">
@@ -62,5 +46,22 @@ Charles River Watershed as well as outlining regional planting, protection, and 
 </a>
 <a href="https://treeboston.maps.arcgis.com/apps/dashboards/1e15bc2e1d27434db83321cd7edb5977" target="_blank">
 <img style="border-width=100%;" src="Screenshot 2024-11-11 164425.png" alt="Tree Canopy Explorer" width="200" height="120">
+</a>
+</section>
+
+<section>
+<p>
+
+</p>
+<p>
+
+</p>
+</section>
+
+<section style="box-shadow: 5px 5px;">
+<b style="color:#E9F6FE;weight:600;font-size:125%">Just for Fun:</b>
+<p style='font-size:80%'>Random hobby projects I've worked on.</p>
+<a href="https://tuftsgis.maps.arcgis.com/apps/instant/nearby/index.html?appid=b975571dc4274d7a9f534a240b891bf9" target="_blank">
+<img style="border-width=100%;" src="Screenshot 2024-11-11 190254.png" alt="MA Ice Cream Trail" width="240" height="120">
 </a>
 </section>
