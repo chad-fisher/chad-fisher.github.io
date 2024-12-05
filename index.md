@@ -14,7 +14,7 @@
   <div class="box">
    <figure>
     <a href="https://experience.arcgis.com/experience/bd5755f56f844a9e89ae59e6167ca193" target="_blank">
-      <img src="Screenshot 2024-12-05 105853.png" alt="2024 Poster Gallery" width="240px" height="120px">
+      <img src="Screenshot 2024-12-05 105853.png" alt="2024 Poster Gallery" width="280px" height="120px">
       <figcaption style="font-size:75%">2024 Poster Gallery</figcaption>
     </a>
   </figure>
@@ -22,7 +22,7 @@
   <div class="box">
     <figure>
       <a href="https://colab.research.google.com/github/tuftsdatalab/python-geoprocessing/blob/main/Demos.ipynb" target="_blank">
-        <img src="Workshop flyer.jpg" alt="Python Geoprocessing Workshop" width="200px" height="120px">
+        <img src="Workshop flyer.jpg" alt="Python Geoprocessing Workshop" width="120px" height="120px">
         <figcaption style="font-size:75%">Python Geoprocessing Workshop</figcaption>
       </a>
     </figure>
